@@ -26,6 +26,7 @@ I made it to simplify managing my own startup items, but it can help anyone stre
 Windows Defender or other antivirus software may flag this program as malicious because it automatically runs what you want on your computer.
 - You can whitelist it if you trust it.
 - Or simply delete it if you prefer.
+
 It’s fully open source, so you can go through the code and verify for yourself that it only does what you want.
 
 ---
