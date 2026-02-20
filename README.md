@@ -7,7 +7,7 @@ I made it to simplify managing my own startup items, but it can help anyone stre
 
 ---
 
-##🧩 Features
+## 🧩 Features
 
 -⚡ Launch Any Application, File, or Folder at Startup
 -📁 Support for Multiple Startup Items
@@ -15,7 +15,7 @@ I made it to simplify managing my own startup items, but it can help anyone stre
 
 ---
 
-##📸 Application Preview
+## 📸 Application Preview
 
 (Replace with your screenshot)
 
