@@ -1,19 +1,21 @@
-🚀 auto starter
+# 🚀 auto starter
 
 This is a small utility I coded that can launch any file, folder, or application automatically when Windows starts.
 I made it to simplify managing my own startup items, but it can help anyone streamline their workflow.
 
-➡️ [Download](https://github.com/MrBoxik/auto-starter/releases/tag/1.0)
+## ➡️ [Download](https://github.com/MrBoxik/auto-starter/releases/tag/1.0)
 
-🧩 Features
+---
 
-⚡ Launch Any Application, File, or Folder at Startup
+##🧩 Features
 
-📁 Support for Multiple Startup Items
+-⚡ Launch Any Application, File, or Folder at Startup
+-📁 Support for Multiple Startup Items
+-📝 Easy Add / Remove / Edit Startup Entries
 
-📝 Easy Add / Remove / Edit Startup Entries
+---
 
-📸 Application Preview
+##📸 Application Preview
 
 (Replace with your screenshot)
 
