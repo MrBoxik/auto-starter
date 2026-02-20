@@ -9,9 +9,12 @@ I made it to simplify managing my own startup items, but it can help anyone stre
 
 ## 🧩 Features
 
-- ⚡ Launch Any Application, File, or Folder at Startup
-- 📁 Support for Multiple Startup Items
-- 📝 Easy Add / Remove / Edit Startup Entries
+- ⚡ Launch anything like file, folder, .lnk or application ... at Windows start-up
+- 🔁 Multiple items supported, with ordering (Move Up / Move Down)
+- ▶️ “Run now” to test launching immediately
+- 💾 Config is saved atomically to items.json in app data directory
+- 🧲 Drag & drop support
+- 🔒 Safety: app will not allow adding itself to the list (avoids loops)
 
 ---
 
