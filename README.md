@@ -9,9 +9,9 @@ I made it to simplify managing my own startup items, but it can help anyone stre
 
 ## 🧩 Features
 
--⚡ Launch Any Application, File, or Folder at Startup
--📁 Support for Multiple Startup Items
--📝 Easy Add / Remove / Edit Startup Entries
+- ⚡ Launch Any Application, File, or Folder at Startup
+- 📁 Support for Multiple Startup Items
+- 📝 Easy Add / Remove / Edit Startup Entries
 
 ---
 
