@@ -17,7 +17,7 @@ I made it to simplify managing my own startup items, but it can help anyone stre
 
 ## 📸 Application Preview
 
-(Replace with your screenshot)
+(later)
 
 ---
 
